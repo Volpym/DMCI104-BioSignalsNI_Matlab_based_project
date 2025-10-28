@@ -37,3 +37,4 @@ datasets/eeg_data.mat
 datasets/EEG_recording_2022-02-07-08.27.51_s2.csv
 datasets/FOETAL_ECG.dat
 .python-version
+report.md
